@@ -1,0 +1,164 @@
+/* common code start */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    color: white;
+    background-color: #38d68a;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn:hover{
+    color: #F3FCF7;
+    background-color: #06c167;
+  
+}
+/* common code sendart */
+
+/* header section start */
+#header-section{
+    background-color: #F3FCF7;
+}
+/* navbar section start */
+#navbar-section .navbar-brand{
+    color: #06C167;
+    font-size: 28px;
+}
+#navbar-section .nav-link.active{
+    color: #06C167;
+}
+#navbar-section .nav-link{
+    color: #000000;
+    font-size: 18px;
+}
+#navbar-section .nav-link:hover{
+    color: #06C167;
+}
+#navbar-section .fa-solid, .fas {
+    color: #06C167;
+}
+/* navbar section start */
+
+/* header content start */
+#header-section h1{
+    color: black;
+    font-size: 75px;
+    font-weight: 600;
+    padding-top: ;
+}
+#header-section p{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* header content end */
+
+/* header section end */
+
+/* support section start */
+.support-features{
+    border-top: 4px solid #F2F2F2 ;
+    border-bottom: 4px solid #F2F2F2 ;
+}
+#support-section{
+    padding-top: 150px;
+}
+#support-section .fa-solid, .fas {
+    background-color: #F3FCF7;
+    color: #06C167;
+    padding: 18px;
+    border-radius: 5px;
+}
+#support-section .support-content h6{
+    font-size: 18px;
+    font-weight: 400;
+}
+#support-section .support-content p{
+    font-size: 14px;
+    font-weight: 400;
+}
+/* support section end */
+
+/* benefit section start */
+#benefit-section .benefit-content{
+    padding-left: 30px;
+}
+#benefit-section .benefit-content h5{
+    font-size: 18px;
+    font-weight: 500;
+}
+#benefit-section .benefit-content h1{
+    color: ;
+    font-size: 60px;
+    font-weight: 500;
+}
+#benefit-section .benefit-content p{
+    color: ;
+    font-size: 15px;
+    font-weight: 400;
+}
+#benefit-section .benefit-content .fa-solid, .fas{
+    color: #06C167;
+}
+/* support section end */
+
+/* stars section start */
+#stars-section .stars-content{
+    padding-left: 30px;
+}
+#stars-section .stars-content h5{
+    font-size: 18px;
+    font-weight: 500;
+}
+#stars-section .stars-content h1{
+    font-size: 60px;
+    font-weight: 500;
+}
+#stars-section .counter-section h1{
+    color: #06C167;
+    font-size: 40px;
+    font-weight: 600;
+}
+/* support section end */
+
+/* ingredients section start */
+.ingredients-banner{
+    background: url(../images/Rectangle\ 8.png);
+    padding: 100px;
+    width: 100%;
+}
+.ingredients-banner h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+}
+/* ingredients section end */
+
+/* about us section start */
+#about-section h2{
+    color: #06C167;
+}
+#about-section p{
+    padding-right: 80px;
+}
+#about-section button, input, optgroup, select, textarea{
+    background-color: #F0F1EC;
+    border: 1px solid transparent;
+    padding: 8px 10px;
+    border-radius: 2px;
+}
+/* about us section end */
+
+/* copyright section start */
+.copyright{
+    background-color: #000000;
+    padding: 1px;
+}
+#copyright-section p{
+    color: white;
+    font-size: 16px;
+    margin-top: 15px;
+}
+/* copyright section end */
